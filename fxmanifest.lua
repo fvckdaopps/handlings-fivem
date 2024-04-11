@@ -7,7 +7,7 @@ author 'fvckdaopps'
 description 'handlings-fivem'
 
 files {
-    'stream/****/handling.meta',
+    'handling.meta',
 }
 
-data_file 'HANDLING_FILE' 'stream/****/handling.meta'
+data_file 'HANDLING_FILE' 'handling.meta'
